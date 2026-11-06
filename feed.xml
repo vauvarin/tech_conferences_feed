@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
+  <title>Developer Conferences : nouveautés</title>
+  <updated>2026-11-06T20:34:04Z</updated>
+  <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
+  <link rel="alternate" href="https://developers.events/"/>
+  <rights>Données : developers.events (CC BY-NC 4.0)</rights>
+  <author><name>developers.events</name><uri>https://developers.events</uri></author>
+</feed>

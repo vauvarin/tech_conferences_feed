@@ -2,9 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-06T20:34:04Z</updated>
+  <updated>2026-11-07T17:45:58Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:eeafb002f01ab298</id>
+    <title>ElixirConf EU 2027 — Lisbon (Portugal) — 22/04/2027</title>
+    <link href="https://www.elixirconf.eu/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>ElixirConf EU 2027 — Lisbon (Portugal) — 22/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:ead7a280d39065a6</id>
+    <title>.NET Conf 2026 Ahmedabad — Ahmedabad (India) — 28/11/2026</title>
+    <link href="https://www.meetup.com/m365ahmedabad/events/317280748/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>.NET Conf 2026 Ahmedabad — Ahmedabad (India) — 28/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:e88880ef3f49881e</id>
+    <title>Women in Tech Conference 2027 — Málaga (Spain) — 22/04/2027</title>
+    <link href="https://womenintechmalaga.com/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Women in Tech Conference 2027 — Málaga (Spain) — 22/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:e8875aca0db09fc9</id>
+    <title>GDG Palermo - Last commit of the year 2026 — Palermo (Italy) — 23/11/2026</title>
+    <link href="https://sessionize.com/gdg-palermo-last-commit-of-the-year-2026/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>GDG Palermo - Last commit of the year 2026 — Palermo (Italy) — 23/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:df736eed1371c650</id>
+    <title>SUGCON Global Online 2027 — Online — 17/01/2027</title>
+    <link href="https://virtual.sugcon.events"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>SUGCON Global Online 2027 — Online — 17/01/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d6b18a9e9807cc8a</id>
+    <title>Open Source Forum 2027 — Los Angeles, CA (USA) — 18/02/2027</title>
+    <link href="https://events.linuxfoundation.org/aswf-open-source-forum/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Open Source Forum 2027 — Los Angeles, CA (USA) — 18/02/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d40ee1838901c7e8</id>
+    <title>AGNTSummit Sydney — Sydney (Australia) — 16/06/2027</title>
+    <link href="https://events.linuxfoundation.org/agntsummit-sydney/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>AGNTSummit Sydney — Sydney (Australia) — 16/06/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d01447682cddbc40</id>
+    <title>PyTorch Day 2026 — Beijing (China) — 12/12/2026</title>
+    <link href="https://www.lfopensource.cn/pytorch-day-china/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>PyTorch Day 2026 — Beijing (China) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:a5adbfa5d0689345</id>
+    <title>Global Power Platform &amp; Agent Bootcamp NDAC Online 2027 — Online — 20/02/2027</title>
+    <link href="https://ndac.community/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Global Power Platform &amp; Agent Bootcamp NDAC Online 2027 — Online — 20/02/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:a1184459fe029b4d</id>
+    <title>AWS Student Community Day 2026 — Salvador (Brazil) — 28/11/2026</title>
+    <link href="https://www.awsclubsenai.com.br/events/aws-student-community-day"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>AWS Student Community Day 2026 — Salvador (Brazil) — 28/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:9751931c5047832d</id>
+    <title>Open Compliance Summit 2026 — Tokyo (Japan) — 10/12/2026</title>
+    <link href="https://events.linuxfoundation.org/open-compliance-summit/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Open Compliance Summit 2026 — Tokyo (Japan) — 10/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:4b2bfa2a5a09da52</id>
+    <title>DataTune 2027 — Nashville, TN (USA) — 12/03/2027</title>
+    <link href="https://DataTuneConf.com/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>DataTune 2027 — Nashville, TN (USA) — 12/03/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:48aab9b6cc1f3bb3</id>
+    <title>DevFest Bosnia &amp; Herzegovina 2026 — Sarajevo (Bosnia and Herzegovina) — 26/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-google-devfest-bosnia-amp-herzegovina-2026/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>DevFest Bosnia &amp; Herzegovina 2026 — Sarajevo (Bosnia and Herzegovina) — 26/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:427dd1e4f6c50cfe</id>
+    <title>AGNTSummit New York City — New York, NY (USA) — 01/11/2027</title>
+    <link href="https://events.linuxfoundation.org/agntsummit-new-york-city/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>AGNTSummit New York City — New York, NY (USA) — 01/11/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:3ecd0151bb11908b</id>
+    <title>Pune DevCon 2026 — Pune (India) — 12/12/2026</title>
+    <link href="https://punedevcon.org"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Pune DevCon 2026 — Pune (India) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:38af9db28a694aca</id>
+    <title>PyData Venice Day 2027 — Mestre (Italy) — 27/02/2027</title>
+    <link href="https://venice.pydata.org/pydata-venice-day-27/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>PyData Venice Day 2027 — Mestre (Italy) — 27/02/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:33f863810670d188</id>
+    <title>Code &amp; Compliance 2027 — Brussels (Belgium) — 28/01/2027</title>
+    <link href="https://codeandcompliance.orcwg.org"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Code &amp; Compliance 2027 — Brussels (Belgium) — 28/01/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:30d1763e87a9f4b8</id>
+    <title>Sustainability in IT The Conversation Continues 2026 — Bengaluru (India) — 28/11/2026</title>
+    <link href="https://sessionize.com/sustainability-in-it-the-conversation-c"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>Sustainability in IT The Conversation Continues 2026 — Bengaluru (India) — 28/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:28a0ab8e28a0f9b5</id>
+    <title>AWS Community Day Lahore 2026 — Lahore (Pakistan) — 26/12/2026</title>
+    <link href="https://awscommunity.pk/lahore"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>AWS Community Day Lahore 2026 — Lahore (Pakistan) — 26/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:1eeba31e30969d7e</id>
+    <title>eBPF Security Summit Online 2027 — Online — 27/01/2027</title>
+    <link href="https://ebpf.io/summit-2027/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>eBPF Security Summit Online 2027 — Online — 27/01/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:19d895efb1423519</id>
+    <title>DevFest Ottawa 2026 — Ottawa, ON (Canada) — 05/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-ottawa-presents-devfest-ottawa-2026-build-secure-amp-scale-in-the-agentic-era/"/>
+    <published>2026-11-07T17:45:58Z</published>
+    <updated>2026-11-07T17:45:58Z</updated>
+    <summary>DevFest Ottawa 2026 — Ottawa, ON (Canada) — 05/12/2026</summary>
+  </entry>
 </feed>

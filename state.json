@@ -3165,6 +3165,13 @@
    "title": "WebExpo",
    "url": "https://webexpo.net"
   },
+  "29b22bbe7f40e3f1": {
+   "first_seen": "2026-11-09T22:28:28Z",
+   "place": "Barranquilla (Colombia)",
+   "start": "2027-04-10",
+   "title": "DEVJVM Barranquilla Colombia 2027",
+   "url": "https://devjvm.com"
+  },
   "29dbd84286f54815": {
    "first_seen": "baseline",
    "place": "San Jose, CA (USA)",
@@ -12405,6 +12412,13 @@
    "title": "SymfonyCon Warsaw 2026",
    "url": "https://live.symfony.com/2026-warsaw-con"
   },
+  "a524f129e57c448a": {
+   "first_seen": "2026-11-09T22:28:28Z",
+   "place": "Hamburg (Germany)",
+   "start": "2027-02-27",
+   "title": "Hamburg Python Pizza",
+   "url": "https://hamburg.python.pizza/"
+  },
   "a56cdb23f80bb645": {
    "first_seen": "baseline",
    "place": "Bloomington, MN (USA)",
@@ -18781,6 +18795,13 @@
    "start": "2026-03-14",
    "title": "Data & AI Community Day Durban: AI Unplugged",
    "url": "https://aimldatadurban.org/"
+  },
+  "fb9aceb3e8ee0c4b": {
+   "first_seen": "2026-11-09T22:28:28Z",
+   "place": "Austin, TX (USA)",
+   "start": "2027-04-19",
+   "title": "Arc of AI 2027",
+   "url": "https://www.arcofai.com/"
   },
   "fbbdac848e287b17": {
    "first_seen": "baseline",

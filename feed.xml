@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-07T17:45:58Z</updated>
+  <updated>2026-11-09T22:28:28Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:fb9aceb3e8ee0c4b</id>
+    <title>Arc of AI 2027 — Austin, TX (USA) — 19/04/2027</title>
+    <link href="https://www.arcofai.com/"/>
+    <published>2026-11-09T22:28:28Z</published>
+    <updated>2026-11-09T22:28:28Z</updated>
+    <summary>Arc of AI 2027 — Austin, TX (USA) — 19/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:a524f129e57c448a</id>
+    <title>Hamburg Python Pizza — Hamburg (Germany) — 27/02/2027</title>
+    <link href="https://hamburg.python.pizza/"/>
+    <published>2026-11-09T22:28:28Z</published>
+    <updated>2026-11-09T22:28:28Z</updated>
+    <summary>Hamburg Python Pizza — Hamburg (Germany) — 27/02/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:29b22bbe7f40e3f1</id>
+    <title>DEVJVM Barranquilla Colombia 2027 — Barranquilla (Colombia) — 10/04/2027</title>
+    <link href="https://devjvm.com"/>
+    <published>2026-11-09T22:28:28Z</published>
+    <updated>2026-11-09T22:28:28Z</updated>
+    <summary>DEVJVM Barranquilla Colombia 2027 — Barranquilla (Colombia) — 10/04/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:eeafb002f01ab298</id>
     <title>ElixirConf EU 2027 — Lisbon (Portugal) — 22/04/2027</title>

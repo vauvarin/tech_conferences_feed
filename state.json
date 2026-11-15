@@ -8,6 +8,13 @@
    "title": "DevOpsDays Atlanta 2027",
    "url": "https://devopsdays.org/events/2027-atlanta"
   },
+  "00863084fef8d27f": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Helsinki (Finland)",
+   "start": "2026-12-09",
+   "title": "Global AI Community Helsinki 2026",
+   "url": "https://globalai.community/chapters/helsinki"
+  },
   "008cabeea0943e3d": {
    "first_seen": "baseline",
    "place": "Munich (Germany)",
@@ -155,6 +162,13 @@
    "title": "Power Platform Bootcamp 2026 Guatemala",
    "url": "https://www.meetup.com/datosenaccion/events/311368681/"
   },
+  "02041a2bf69a98a5": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Essen (Germany)",
+   "start": "2026-12-17",
+   "title": "Dev Fest Essen",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-duisburg-essen-essen-germany-presents-dev-fest/"
+  },
   "021ab8feb61ee1c0": {
    "first_seen": "baseline",
    "place": "Saint-André (La Réunion)",
@@ -266,6 +280,13 @@
    "start": "2026-12-02",
    "title": "Non Profit Community Day Spain 2026",
    "url": "https://www.nonprofitday.es/"
+  },
+  "03741907d4a71d79": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Madrid (Spain)",
+   "start": "2027-05-12",
+   "title": "Codemotion Madrid 2027",
+   "url": "https://conferences.codemotion.com/madrid/"
   },
   "037b0c1dd93cef4f": {
    "first_seen": "baseline",
@@ -491,6 +512,13 @@
    "title": "DevOps 2.0",
    "url": "https://devops.gainskillsmedia.com/6th/"
   },
+  "0608eaf3be8fde58": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Castelló de la Plana (Spain)",
+   "start": "2027-02-20",
+   "title": "Global Power Platform Bootcamp Castelló de la Plana 2027",
+   "url": "https://www.powerplatformcastellon.es/"
+  },
   "063620b1bac4d490": {
    "first_seen": "baseline",
    "place": "London (UK)",
@@ -532,6 +560,20 @@
    "start": "2026-09-23",
    "title": "Django on the Med 2026",
    "url": "https://djangomed.eu"
+  },
+  "06a7d85d785008e7": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Nairobi (Kenya)",
+   "start": "2027-11-17",
+   "title": "AGNTSummit Nairobi",
+   "url": "https://events.linuxfoundation.org/agntsummit-nairobi/"
+  },
+  "06b9ac4185784428": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "New Orleans, LA (USA)",
+   "start": "2027-04-17",
+   "title": "Directions North America 2027",
+   "url": "https://directionsna.com/"
   },
   "06ddcd2434ce0e85": {
    "first_seen": "baseline",
@@ -861,6 +903,13 @@
    "start": "2026-11-21",
    "title": "DevFest Guadalajara 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2026/"
+  },
+  "0b3eb4c99c22ca77": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Mechelen (Belgium)",
+   "start": "2027-05-27",
+   "title": "BA & Beyond Europe Mechelen 2027",
+   "url": "https://ba-beyond.eu"
   },
   "0b4d105c733dbe2d": {
    "first_seen": "baseline",
@@ -1541,12 +1590,26 @@
    "title": "Data Community Day Austria 2027",
    "url": "https://datacommunity.at"
   },
+  "132dde745364c446": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Online",
+   "start": "2027-04-15",
+   "title": "NODES AI Online 2027",
+   "url": "https://neo4j.com/nodes-ai/"
+  },
   "133d4ece5e4941b2": {
    "first_seen": "baseline",
    "place": "Paris (France)",
    "start": "2026-06-27",
    "title": "Asynconf",
    "url": "https://asynconf.com/"
+  },
+  "1356643d299108ab": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Dresden (Germany)",
+   "start": "2027-06-08",
+   "title": "21st Silicon Saxony Days 2027",
+   "url": "https://www.silicon-saxony-day.de/"
   },
   "139a6e95a1270b8b": {
    "first_seen": "baseline",
@@ -2129,6 +2192,13 @@
    "title": "PyCon Austria 2026",
    "url": "https://pycon.at"
   },
+  "1b35ad2dca7c92b9": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Chattanooga, TN (USA)",
+   "start": "2027-07-22",
+   "title": "Scenic City Summit 2027",
+   "url": "http://www.sceniccitysummit.com"
+  },
   "1b6edc5bb536630c": {
    "first_seen": "baseline",
    "place": "Bangkok (Thailand)",
@@ -2661,6 +2731,13 @@
    "title": "Cloud Native & Open Source AI Conference",
    "url": "https://www.communitystack.io/conferences/cloud-native-london"
   },
+  "24479941635382c1": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Springfield, IL (USA)",
+   "start": "2027-03-30",
+   "title": "BsidesSGF 2027",
+   "url": "https://bsidessgf.com/"
+  },
   "244e8ad9814b59c1": {
    "first_seen": "baseline",
    "place": "Tamale (Ghana)",
@@ -2744,6 +2821,13 @@
    "start": "2026-05-16",
    "title": "Agentic AI Unplugged: Bengaluru Edition",
    "url": "https://luma.com/cloudevents"
+  },
+  "25df1d9543aa9a96": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Göteborg (Sweden)",
+   "start": "2027-04-19",
+   "title": "foss-north 2027",
+   "url": "https://foss-north.se/2027/index.html"
   },
   "25e17938864ee1cb": {
    "first_seen": "baseline",
@@ -3102,6 +3186,13 @@
    "title": "DevCon #26 : sécurité / post-quantique / hacking",
    "url": "https://www.programmez.com/page-devcons"
   },
+  "2926d2972e5fc11a": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Soltau (Germany)",
+   "start": "2027-05-31",
+   "title": "Cloudland 2027",
+   "url": "https://www.cloudland.org"
+  },
   "2929cc0df3c05f28": {
    "first_seen": "baseline",
    "place": "Prague (Czechia)",
@@ -3430,6 +3521,13 @@
    "start": "2026-12-05",
    "title": "Devfest Gusau 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/"
+  },
+  "2cf5f538b121eea2": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "صنعاء‎ (Yemen)",
+   "start": "2026-12-26",
+   "title": "DevFest Sana'a 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-sanaa-presents-devfest-sanaa-2026/"
   },
   "2cf7f7ccb6f6376f": {
    "first_seen": "baseline",
@@ -4187,6 +4285,13 @@
    "title": "AWS Summit New York City",
    "url": "https://aws.amazon.com/fr/events/summits/new-york/"
   },
+  "3581047167738dd9": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Moschato (Greece)",
+   "start": "2026-12-12",
+   "title": "DevFest Athens 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-athens-2026-1/"
+  },
   "35bbbdab0a79864a": {
    "first_seen": "baseline",
    "place": "Raleigh, NC (USA)",
@@ -4579,6 +4684,13 @@
    "title": "Dynatrace Perform 2027",
    "url": "https://www.dynatrace.com/perform/"
   },
+  "3ab6607ca0edf351": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Lima (Peru)",
+   "start": "2026-11-28",
+   "title": "Microsoft Foundry Day",
+   "url": "https://axet.nttdata.com/flows/cloud/nttdata-eventos-programas/?form=Programas&nombrePrograma=40-Microsoft%20Foundry%20Day%20en%20NTT%20DATA"
+  },
   "3ad07f0cdac106d0": {
    "first_seen": "baseline",
    "place": "Batumi (Georgia)",
@@ -4774,6 +4886,13 @@
    "start": "2026-05-20",
    "title": "DevDays Europe",
    "url": "https://devdays.lt"
+  },
+  "3dcd1c377cc29f5e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Berlin (Germany)",
+   "start": "2027-05-21",
+   "title": "OffensiveCon 2027",
+   "url": "https://pretalx.com/offensivecon27/"
   },
   "3e17e94710a84074": {
    "first_seen": "baseline",
@@ -6070,6 +6189,13 @@
    "title": "DevOpsDays Tokyo 2026",
    "url": "https://devopsdays.org/events/2026-tokyo"
   },
+  "4ef680ba85199504": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Budapest (Hungary)",
+   "start": "2027-05-20",
+   "title": "BA & Beyond Europe Budapest 2027",
+   "url": "https://ba-beyond.eu"
+  },
   "4ef6d71c1fe06cc1": {
    "first_seen": "baseline",
    "place": "Fresno, CA (USA)",
@@ -6721,6 +6847,13 @@
    "title": "DSCI Cyber for Global Summit 2026",
    "url": "https://www.dsci.in/events/content/dsci-cyber-global-summit-2026"
   },
+  "56e91578ae9d3940": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Tokyo (Japan)",
+   "start": "2027-11-09",
+   "title": "AGNTSummit Tokyo",
+   "url": "https://events.linuxfoundation.org/agntsummit-tokyo/"
+  },
   "570967e22b4ffe4d": {
    "first_seen": "baseline",
    "place": "Online",
@@ -6888,6 +7021,13 @@
    "start": "2027-03-15",
    "title": "Kubernetes on Edge Day Europe",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubernetes-on-edge-day/"
+  },
+  "59211dfcdfbadefa": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Aswan (Egypt)",
+   "start": "2026-12-12",
+   "title": "DevFest Aswan'26",
+   "url": "https://gdg.community.dev/events/details/google-gdg-aswan-presents-devfest-aswan26/"
   },
   "59364865aa27574c": {
    "first_seen": "baseline",
@@ -8268,6 +8408,13 @@
    "title": "Governance & Security Summit 19.-20. Januar 2027",
    "url": "https://events.m365-summits.de/GovernanceSecuritySummit1920Januar2027"
   },
+  "6afb7c99357552d8": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Redmond, WA (USA)",
+   "start": "2027-08-02",
+   "title": "Visual Studio Live! & Artificial Intelligence Live! 2027",
+   "url": "https://vslive.com/events/microsofthq-2027/home.aspx"
+  },
   "6b3bb06024aaa879": {
    "first_seen": "baseline",
    "place": "Online",
@@ -8576,6 +8723,13 @@
    "title": "Microsoft Purview and Defender Days, 2026",
    "url": "https://www.meetup.com/microsoft-365ug/"
   },
+  "6fd502d20aaa7c4e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Kristiansand (Norway)",
+   "start": "2027-06-04",
+   "title": "BSides Kristiansand 2027",
+   "url": "https://bsideskrs.no/"
+  },
   "6ffa578444e5daa6": {
    "first_seen": "baseline",
    "place": "Panama City (Panama)",
@@ -8799,6 +8953,13 @@
    "start": "2027-05-18",
    "title": "Overture Member Summit",
    "url": "https://events.linuxfoundation.org/overture-member-summit/"
+  },
+  "7393d0115b2349bc": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Mexico City (Mexico)",
+   "start": "2027-07-16",
+   "title": "Security BSides CDMX 2027",
+   "url": "https://bsidescdmx.org/"
   },
   "73b19413c45495d7": {
    "first_seen": "baseline",
@@ -9185,6 +9346,13 @@
    "title": "Heapcon 2026",
    "url": "https://heapcon.io/2026/"
   },
+  "77f0fd3d73a7587a": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Minato (Japan)",
+   "start": "2027-10-27",
+   "title": "OffensiveCon27 - Tokyo",
+   "url": "https://pretalx.com/offensivecon27-tokyo/"
+  },
   "781e29d2602149e5": {
    "first_seen": "baseline",
    "place": "Washington, DC (USA)",
@@ -9521,6 +9689,13 @@
    "title": "DevFest AIngular TLV",
    "url": "https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-devfest-aingular-tlv/"
   },
+  "7d1d9087aff0bc00": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Online",
+   "start": "2026-11-25",
+   "title": "NET Conf Online 2026",
+   "url": "https://www.meetup.com/es/net-baires/events/311541156/"
+  },
   "7d48525aef4ee63b": {
    "first_seen": "baseline",
    "place": "Online",
@@ -9773,6 +9948,13 @@
    "title": "Forum PHP 2026",
    "url": "https://event.afup.org/"
   },
+  "80a4c07a593a8fe3": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Online",
+   "start": "2026-11-20",
+   "title": "DevTalks 2026: Where AI Takes Us Next",
+   "url": "https://www.landing.ciklum.com/devtalks-2026"
+  },
   "80c50a56253a1c76": {
    "first_seen": "baseline",
    "place": "Québec (Canada)",
@@ -9842,6 +10024,13 @@
    "start": "2026-12-09",
    "title": "OpenSource Expérience",
    "url": "https://www.opensource-experience.com/"
+  },
+  "81e5b7407bdc4ec4": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Brussels (Belgium)",
+   "start": "2027-01-28",
+   "title": "FOSSapalooza 2027",
+   "url": "https://fossapalooza.eu/"
   },
   "820fdf285bd99d23": {
    "first_seen": "baseline",
@@ -9990,6 +10179,13 @@
    "title": "Directions for Enterprise 2026",
    "url": "https://www.directionsforpartners.com/enterprise2026"
   },
+  "83c1d4da8a48b35e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Utrecht (Netherlands)",
+   "start": "2027-05-18",
+   "title": "BA & Beyond Europe Utrecht 2027",
+   "url": "https://ba-beyond.eu"
+  },
   "83d6bc0f5fc532f2": {
    "first_seen": "baseline",
    "place": "Detroit, MI (USA)",
@@ -10081,6 +10277,13 @@
    "title": "DDX Innovation & UX Conference",
    "url": "https://www.ddxconference.com/dubai"
   },
+  "84ca0aa59619e167": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Munich (Germany)",
+   "start": "2026-12-05",
+   "title": "DevFest Munich 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-munich-presents-devfest-munich-2026-munich-innovates-ai-cloud-amp-beyond/"
+  },
   "85127c54736ea28c": {
    "first_seen": "baseline",
    "place": "Nantes (France)",
@@ -10122,6 +10325,13 @@
    "start": "2026-07-29",
    "title": "KubeCon + CloudNativeCon Japan 2026",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/"
+  },
+  "85fbc3bccb669762": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Las Cruces, NM (USA)",
+   "start": "2027-04-13",
+   "title": "Southwest Food Security and Technology Summit 2027",
+   "url": "https://swnomsec.org"
   },
   "8608035d67fcc162": {
    "first_seen": "baseline",
@@ -10206,6 +10416,13 @@
    "start": "2026-10-17",
    "title": "DevFest Mersin 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-mersin-presents-devfest-mersin-2026/"
+  },
+  "872e1422a55e12fb": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Sofia (Bulgaria)",
+   "start": "2026-12-10",
+   "title": ".NET Conf 2026",
+   "url": "https://dotNetConf2026.eventbrite.com"
   },
   "873f0c4090f57c43": {
    "first_seen": "baseline",
@@ -10550,6 +10767,13 @@
    "title": "BSides Manama Community Meetup 001",
    "url": "https://linktr.ee/bsidesmanama"
   },
+  "8cb09c691addae52": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Bengaluru (India)",
+   "start": "2027-09-09",
+   "title": "Open Nexus India Featuring: AGNTSummit + KubeCon + CloudNativeCon + Open Source Summit + PyTorch Conference",
+   "url": "https://events.linuxfoundation.org/open-nexus-india/"
+  },
   "8cd689b9d91f05ce": {
    "first_seen": "baseline",
    "place": "Kongens Lyngby (Denmark)",
@@ -10626,6 +10850,13 @@
    "start": "2026-03-23",
    "title": "KeycloakCon Europe",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/keycloakcon/"
+  },
+  "8d8b8425ecc76ac4": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Castelló de la Plana (Spain)",
+   "start": "2027-02-20",
+   "title": "Global AI Bootcamp 2027",
+   "url": "https://www.globalaicastellon.es/"
   },
   "8d9d9ee2d2a314d2": {
    "first_seen": "baseline",
@@ -10774,6 +11005,13 @@
    "title": "KubeVirt Summit Virtual",
    "url": "https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kubevirt-summit-2026/"
   },
+  "906afda1e7bd9c4f": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Berlin (Germany)",
+   "start": "2027-06-14",
+   "title": "GopherCon Europe + HeyAI 2027",
+   "url": "https://www.gophercon.eu/"
+  },
   "90725184630b3d7c": {
    "first_seen": "baseline",
    "place": "Ancona (Italy)",
@@ -10850,6 +11088,13 @@
    "start": "2026-03-14",
    "title": "Android Bangkok Conference 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-bangkok-presents-android-bangkok-conference-2026-faster-app-better-ai"
+  },
+  "91b4ccc9d94e5d86": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Online",
+   "start": "2027-02-19",
+   "title": "Global Power Platform & Agent Bootcamp Polish Edition Online 2027",
+   "url": "https://events.teams.microsoft.com/event/12b6322d-fa03-4f5d-8da2-6082a7bef4c0@c35399f0-5ea9-4b99-b28c-2e01481c1b07"
   },
   "91d273d08b93e37c": {
    "first_seen": "baseline",
@@ -10998,6 +11243,13 @@
    "title": "DAM Europe",
    "url": "https://www.henrystewartconferences.com/events/dam-europe-2026"
   },
+  "93b27fc4217ee37c": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Cluj-Napoca (Romania)",
+   "start": "2027-05-21",
+   "title": "BA & Beyond Europe Cluj-Napoca 2027",
+   "url": "https://ba-beyond.eu"
+  },
   "93b368d0e83f3778": {
    "first_seen": "baseline",
    "place": "Zurich (Switzerland)",
@@ -11103,6 +11355,13 @@
    "title": "DevFest Ankara 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-ankara-presents-devfest-ankara-2026/"
   },
+  "953ca62f3034feb8": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Stockholm (Sweden)",
+   "start": "2027-05-24",
+   "title": "BA & Beyond Europe Stockholm 2027",
+   "url": "https://ba-beyond.eu"
+  },
   "953d5dffde8c58dd": {
    "first_seen": "baseline",
    "place": "Amsterdam (Netherlands)",
@@ -11200,6 +11459,13 @@
    "start": "2026-12-12",
    "title": "Alexandria DevFest 2026 Kickoff",
    "url": "https://gdg.community.dev/events/details/google-gdg-alexandria-presents-alexandria-devfest-2026-kickoff/"
+  },
+  "9698a4ce5f9aa17f": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Alaior (Spain)",
+   "start": "2026-12-18",
+   "title": "DevFest Menorca 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-menorca-presents-devfest-menorca-2026/"
   },
   "96ab5c4fe39a39ef": {
    "first_seen": "baseline",
@@ -11649,6 +11915,13 @@
    "title": "DevFest Afyon",
    "url": "https://gdg.community.dev/events/details/google-gdg-afyon-presents-devfest-afyon/"
   },
+  "9b7c6f19e5cd5c15": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Kongens Lyngby (Denmark)",
+   "start": "2027-02-19",
+   "title": "Experience Global Power Platform & Agent Bootcamp 2027",
+   "url": "https://www.powerplatformbootcamp.com/2027/location-detail/?id=fe7be890-a9b8-f111-aad2-000d3ae9a84f&city=Copenhagen"
+  },
   "9baa9e8f1f77c012": {
    "first_seen": "baseline",
    "place": "Gilbert, AZ (USA)",
@@ -11802,6 +12075,13 @@
    "start": "2026-09-23",
    "title": "Rails World 2026",
    "url": "https://rubyonrails.org/world/2026"
+  },
+  "9d631a23f99d362a": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Sofia (Bulgaria)",
+   "start": "2026-12-15",
+   "title": "Global AI Nights Sofia 2026",
+   "url": "https://globalai.community/e/3bpbrt9d"
   },
   "9da25f6c38dddf70": {
    "first_seen": "baseline",
@@ -12265,6 +12545,13 @@
    "title": "Escape 2027",
    "url": "https://escconf.com/"
   },
+  "a34f025b770fdb5e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Nairobi (Kenya)",
+   "start": "2026-11-20",
+   "title": "Africa DevOps Summit 2026",
+   "url": "https://nairobidevops.org/"
+  },
   "a36c186154b718e5": {
    "first_seen": "baseline",
    "place": "Riyadh (Saudi Arabia)",
@@ -12390,6 +12677,13 @@
    "start": "2027-02-25",
    "title": "BSides Tirol",
    "url": "https://www.bsides.tirol/"
+  },
+  "a4ab5bfa439a9cd8": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Alicante (Spain)",
+   "start": "2027-02-20",
+   "title": "Global Power Platform Bootcamp Alicante 2027",
+   "url": "https://globalpowerplatformbootcamp2027alicante.eventbrite.es"
   },
   "a4f982edffc2a71a": {
    "first_seen": "baseline",
@@ -12538,6 +12832,20 @@
    "title": "Manage Agile 2026",
    "url": "https://www.manage-agile.de/"
   },
+  "a7aff477b86ca99e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Zurich (Switzerland)",
+   "start": "2027-03-05",
+   "title": "Winterkongress 2027",
+   "url": "https://www.winterkongress.ch/"
+  },
+  "a7b40df37cf1e8e8": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Boston, MA (USA)",
+   "start": "2027-04-03",
+   "title": "OWASP BASC 2027",
+   "url": "https://basconf.org/"
+  },
   "a7c5bd87a8c34885": {
    "first_seen": "baseline",
    "place": "Athens (Greece)",
@@ -12593,6 +12901,13 @@
    "start": "2026-11-19",
    "title": "MCP Dev Summit Nairobi",
    "url": "https://events.linuxfoundation.org/mcp-dev-summit-nairobi/"
+  },
+  "a8c3b3624a1f9c53": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Luxembourg (Luxembourg)",
+   "start": "2027-05-18",
+   "title": "BA & Beyond Europe Luxembourg 2027",
+   "url": "https://ba-beyond.eu"
   },
   "a8dafeda1a20c99f": {
    "first_seen": "baseline",
@@ -13210,6 +13525,13 @@
    "title": "VallaTech Summit 2026 (DevFest Valladolid)",
    "url": "https://www.vallatechsummit.com/"
   },
+  "b1b4d2333d279ee2": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Copenhagen (Denmark)",
+   "start": "2027-05-25",
+   "title": "BA & Beyond Europe Copenhagen 2027",
+   "url": "https://ba-beyond.eu"
+  },
   "b1cd3a77271e70dd": {
    "first_seen": "baseline",
    "place": "Barcelona (Spain)",
@@ -13405,6 +13727,13 @@
    "start": "2026-03-10",
    "title": "Software Architecture AI Day",
    "url": "https://softwarearchitecture4ai-day.com"
+  },
+  "b487ed5a4faf197c": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "San Francisco, CA (USA)",
+   "start": "2027-04-28",
+   "title": "AGNTCon + MCPCon 2027",
+   "url": "https://events.linuxfoundation.org/agntcon-mcpcon-north-america/"
   },
   "b4889c695f310f13": {
    "first_seen": "baseline",
@@ -13623,6 +13952,13 @@
    "title": "DynamicsCon Regional Midwest 2027",
    "url": "https://www.eventbrite.com/e/2000484907209?aff=oddtdtcreator"
   },
+  "b71a4237cef0f4d7": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Santander (Spain)",
+   "start": "2026-12-11",
+   "title": "🚀 DevFest Santander 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-santander-presents-devfest-santander-2026-vuelve-el-sobaofest-ii/"
+  },
   "b724293ffe98ec9a": {
    "first_seen": "baseline",
    "place": "Stuttgart (Germany)",
@@ -13643,6 +13979,13 @@
    "start": "2026-08-25",
    "title": "techcamp 2026",
    "url": "https://techcamp.hamburg"
+  },
+  "b74da5fafed11aaa": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Italy",
+   "start": "2026-12-18",
+   "title": ".NET Conf 2026",
+   "url": "https://dotnetliguria.net"
   },
   "b752ac70253de1a6": {
    "first_seen": "baseline",
@@ -14197,6 +14540,13 @@
    "title": "Voice Agents Forum",
    "url": "https://luma.com/voiceagentssf"
   },
+  "bf8027f6705ef2c6": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Sofia (Bulgaria)",
+   "start": "2027-02-20",
+   "title": "Global Power Platform & Agent Bootcamp 2027",
+   "url": "https://GPPB-Bulgaria-2027.eventbrite.com"
+  },
   "bf86196e7503ce3d": {
    "first_seen": "baseline",
    "place": "Antwerp (Belgium)",
@@ -14399,6 +14749,13 @@
    "start": "2026-10-31",
    "title": "Devfest Gaborone 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-gaborone-presents-devfest-gaborone-2026/"
+  },
+  "c1769ea56821ed25": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Shanghai (China)",
+   "start": "2027-05-12",
+   "title": "Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference",
+   "url": "https://www.lfopensource.cn/open-nexus-china/"
   },
   "c1cbbda29a8cf19d": {
    "first_seen": "baseline",
@@ -14799,6 +15156,13 @@
    "title": "Devopsdays Sibiu",
    "url": "https://devopsdays.org/events/2026-sibiu"
   },
+  "c8bd2d003334ede5": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Актобе (Kazakhstan)",
+   "start": "2026-12-12",
+   "title": "DevFest Aktobe 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-aktobe-presents-devfest-aktobe-2026-build-connect-inspire/"
+  },
   "c8c4c4f66a1ecfdc": {
    "first_seen": "baseline",
    "place": "Damanhour (Egypt)",
@@ -15149,6 +15513,13 @@
    "title": "Conf42: Chaos Engineering 2026",
    "url": "https://www.conf42.com/ce2026"
   },
+  "cd6707c13e633be9": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Baltimore, MD (USA)",
+   "start": "2027-04-23",
+   "title": "BSidesCharm 2027",
+   "url": "https://bsidescharm.org/"
+  },
   "cd797e9cbfcb73bd": {
    "first_seen": "baseline",
    "place": "Vancouver, BC (Canada)",
@@ -15281,6 +15652,13 @@
    "start": "2026-11-28",
    "title": "DevFest Chiatura 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-chiatura-presents-devfest-chiatura-2026/"
+  },
+  "cf70ecec09b6419a": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Ismailia (Egypt)",
+   "start": "2026-11-21",
+   "title": "DevFest Ismailia 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-digital-embryo-of-ai-agent/"
   },
   "cf7b4b6f4e0215dc": {
    "first_seen": "baseline",
@@ -16493,6 +16871,13 @@
    "title": "OpenSource Con India 2026",
    "url": "https://opensourcecon.in/"
   },
+  "ded9ff90aa27dca5": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Denver, CO (USA)",
+   "start": "2028-12-11",
+   "title": "KubeCon + CloudNativeCon North America 2028",
+   "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/"
+  },
   "dee2050ec6fb3f90": {
    "first_seen": "baseline",
    "place": "Bali (Indonesia)",
@@ -16885,6 +17270,13 @@
    "title": "MAUI Day Cologne",
    "url": "https://mauiday.net/cologne"
   },
+  "e351b107469416c2": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Tallinn (Estonia)",
+   "start": "2027-06-02",
+   "title": "NTD 2027",
+   "url": "https://sessionize.com/ntd-2027/"
+  },
   "e3e1571e37fca3c9": {
    "first_seen": "baseline",
    "place": "Porto (Portugal)",
@@ -16940,6 +17332,13 @@
    "start": "2026-09-21",
    "title": "devdays 2026",
    "url": "https://devdays.ro/"
+  },
+  "e4c771ca59d7dde0": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Milwaukee, WI (USA)",
+   "start": "2027-07-16",
+   "title": "Homebrew Con 2027",
+   "url": "https://homebrewcon.org/"
   },
   "e4e780d4d583c047": {
    "first_seen": "baseline",
@@ -17010,6 +17409,13 @@
    "start": "2026-05-16",
    "title": "Build with AI Medan 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-medan-presents-build-with-ai-medan-2026/"
+  },
+  "e592723a8fdabd2b": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Redmond, WA (USA)",
+   "start": "2027-08-09",
+   "title": "TechMentor & Cybersecurity Live 2027",
+   "url": "https://techmentorevents.com/events/microsofthq-2027/home.aspx"
   },
   "e5b90d9126802dcc": {
    "first_seen": "baseline",
@@ -17178,6 +17584,13 @@
    "start": "2026-09-21",
    "title": "BruCON 0x12",
    "url": "https://www.brucon.org"
+  },
+  "e81de825ec81ee12": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Berlin (Germany)",
+   "start": "2027-06-08",
+   "title": "University:Future Festival 2027",
+   "url": "https://festival.hfd.digital/"
   },
   "e856235c990e6fee": {
    "first_seen": "baseline",
@@ -17760,6 +18173,13 @@
    "title": "QCon London",
    "url": "https://qconlondon.com/medialisting2026"
   },
+  "ee096efa34684a96": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Aix-en-Provence (France)",
+   "start": "2026-12-08",
+   "title": "GDG Aix DevFest 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-devfest-2026-une-nouvelle-edition-provencale/"
+  },
   "ee5adbd33eab23ca": {
    "first_seen": "baseline",
    "place": "Richmond, VA (USA)",
@@ -18271,6 +18691,13 @@
    "title": "BADCamp 2026",
    "url": "https://badcamp.org"
   },
+  "f43c0074a43deece": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Loire Valley (France)",
+   "start": "2027-03-10",
+   "title": "JChateau",
+   "url": "https://www.jchateau.org/"
+  },
   "f4491a9b50106433": {
    "first_seen": "baseline",
    "place": "Monterrey (Mexico)",
@@ -18453,6 +18880,13 @@
    "title": "DevFest 2026 Monterrey",
    "url": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/"
   },
+  "f66ee46820c48c2e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Second Al Sheikh Zayed (Egypt)",
+   "start": "2026-12-05",
+   "title": "Devfest Giza 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-giza-presents-devfest-giza-2026-think-bigger-build-further/"
+  },
   "f66fba53ea47c7b0": {
    "first_seen": "baseline",
    "place": "Online",
@@ -18487,6 +18921,13 @@
    "start": "2027-06-03",
    "title": "Devworld Conference",
    "url": "https://www.devworldconference.com"
+  },
+  "f7465c394bfec098": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Bengaluru (India)",
+   "start": "2026-11-21",
+   "title": "WordCamp Bengaluru 2026",
+   "url": "https://bengaluru.wordcamp.org/2026/"
   },
   "f771d5b4d4ae661c": {
    "first_seen": "baseline",
@@ -18614,6 +19055,13 @@
    "title": "Python Asia",
    "url": "https://2026.pythonasia.org"
   },
+  "f918328933782e81": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Niamey (Niger)",
+   "start": "2026-11-29",
+   "title": "DevFest Niamey 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-niamey-presents-devfest-niamey-2026-lia-au-service-de-lagriculture-au-niger/"
+  },
   "f91a1867a5e18623": {
    "first_seen": "baseline",
    "place": "Geneva (Switzerland)",
@@ -18669,6 +19117,13 @@
    "start": "2026-09-26",
    "title": "Come To Code 2026",
    "url": "https://www.cometocode.it"
+  },
+  "f9fad3bd6a471383": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Palma de Mallorca (Spain)",
+   "start": "2026-11-28",
+   "title": "EnsaïmadaConf - DevFest Mallorca 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-mallorca-presents-ensaimadaconf-devfest-mallorca-2026/"
   },
   "fa059403a747acdf": {
    "first_seen": "baseline",
@@ -18823,6 +19278,13 @@
    "start": "2026-06-01",
    "title": "European Power Platform Conference",
    "url": "https://www.sharepointeurope.com/european-power-platform-conference"
+  },
+  "fbf73ab2bb1bf4b3": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Al Mansura (Yemen)",
+   "start": "2026-12-12",
+   "title": "DevFest Al Mansura 26",
+   "url": "https://gdg.community.dev/events/details/google-gdg-aden-presents-devfest-26-ai-for-all/"
   },
   "fc0a1183fb90c7ac": {
    "first_seen": "baseline",
@@ -18998,6 +19460,13 @@
    "start": "2026-04-18",
    "title": "DevFest Pisa",
    "url": "https://devfest.gdgpisa.it"
+  },
+  "fdfd9bf9990f0518": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Mountain View, CA (USA)",
+   "start": "2027-05-11",
+   "title": "Percona Live Bay Area 2027",
+   "url": "http://perconalive.com/"
   },
   "fe24692782ae413a": {
    "first_seen": "baseline",
@@ -19215,6 +19684,13 @@
    "start": "2026-11-16",
    "title": "SuriCon2026",
    "url": "https://suricon.net/"
+  },
+  "fff02ce16433349e": {
+   "first_seen": "2026-11-15T16:25:21Z",
+   "place": "Online",
+   "start": "2026-12-05",
+   "title": ".NET Conf GT Online 2026",
+   "url": "https://www.meetup.com/techcommunitygt/events/317026280/"
   },
   "fff40da70dac1ecf": {
    "first_seen": "baseline",

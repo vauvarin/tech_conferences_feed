@@ -2,11 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-15T16:25:21Z</updated>
+  <updated>2026-11-18T00:59:55Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:e9b4a4a842bed569</id>
+    <title>CityAI by CityJS Conference — London (UK) — 21/04/2027</title>
+    <link href="https://london.cityaiconf.org"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>CityAI by CityJS Conference — London (UK) — 21/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:e50e2b82a3785072</id>
+    <title>BeNeLux Power 2026 — Tilburg (Netherlands) — 23/11/2026</title>
+    <link href="https://common.be/"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>BeNeLux Power 2026 — Tilburg (Netherlands) — 23/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:dc4fdf955031e70f</id>
+    <title>Upstream — San Francisco, CA (USA) — 14/01/2027</title>
+    <link href="https://upstream.snowxa.com"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>Upstream — San Francisco, CA (USA) — 14/01/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:c5c83058cd189649</id>
+    <title>CityJS 2027 — London (UK) — 21/04/2027</title>
+    <link href="https://london.cityjsconf.org"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>CityJS 2027 — London (UK) — 21/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:c1f33dd29d29aa93</id>
+    <title>Day of Data 2027 — Jacksonville, FL (USA) — 14/05/2027</title>
+    <link href="https://dayofdata.org/jax"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>Day of Data 2027 — Jacksonville, FL (USA) — 14/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:b170d291025dfb1f</id>
+    <title>DevFest in the Cloud — Belgrade (Serbia) — 12/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-belgrade-presents-devfest-in-the-cloud/"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>DevFest in the Cloud — Belgrade (Serbia) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:95d39dab8313348d</id>
+    <title>Oh My Hack — Warsaw (Poland) — 02/12/2026</title>
+    <link href="https://omhconf.pl"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>Oh My Hack — Warsaw (Poland) — 02/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:5a8035dd45d79854</id>
+    <title>Enterprise Private AI UAE — Dubai (United Arab Emirates) — 17/03/2027</title>
+    <link href="https://airswipe-global.com"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>Enterprise Private AI UAE — Dubai (United Arab Emirates) — 17/03/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:559ed23fa92959e1</id>
+    <title>JuliaCon 2027 — Rhineland Palatinate (Germany) — 09/08/2027</title>
+    <link href="https://pretalx.com/juliacon-2027/"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>JuliaCon 2027 — Rhineland Palatinate (Germany) — 09/08/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:49aee28f3d3a0564</id>
+    <title>AWS Community Summit Birmingham 2027 — Birmingham (UK) — 24/06/2027</title>
+    <link href="https://www.comsum.co.uk/brum-27"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>AWS Community Summit Birmingham 2027 — Birmingham (UK) — 24/06/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:42c8c65d88c7089e</id>
+    <title>Enterprise AI Summit — Portland, OR (USA) — 05/05/2027</title>
+    <link href="https://events.itrevolution.com/2027-portland/"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>Enterprise AI Summit — Portland, OR (USA) — 05/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:295251706283165a</id>
+    <title>webinale Berlin — Berlin (Germany) — 14/06/2027</title>
+    <link href="https://webinale.com/berlin"/>
+    <published>2026-11-18T00:59:55Z</published>
+    <updated>2026-11-18T00:59:55Z</updated>
+    <summary>webinale Berlin — Berlin (Germany) — 14/06/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:fff02ce16433349e</id>
     <title>.NET Conf GT Online 2026 — Online — 05/12/2026</title>
@@ -150,101 +246,5 @@
     <published>2026-11-15T16:25:21Z</published>
     <updated>2026-11-15T16:25:21Z</updated>
     <summary>Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference — Shanghai (China) — 12/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:bf8027f6705ef2c6</id>
-    <title>Global Power Platform &amp; Agent Bootcamp 2027 — Sofia (Bulgaria) — 20/02/2027</title>
-    <link href="https://GPPB-Bulgaria-2027.eventbrite.com"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Global Power Platform &amp; Agent Bootcamp 2027 — Sofia (Bulgaria) — 20/02/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:b74da5fafed11aaa</id>
-    <title>.NET Conf 2026 — Italy — 18/12/2026</title>
-    <link href="https://dotnetliguria.net"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>.NET Conf 2026 — Italy — 18/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:b71a4237cef0f4d7</id>
-    <title>🚀 DevFest Santander 2026 — Santander (Spain) — 11/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-santander-presents-devfest-santander-2026-vuelve-el-sobaofest-ii/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>🚀 DevFest Santander 2026 — Santander (Spain) — 11/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:b487ed5a4faf197c</id>
-    <title>AGNTCon + MCPCon 2027 — San Francisco, CA (USA) — 28/04/2027</title>
-    <link href="https://events.linuxfoundation.org/agntcon-mcpcon-north-america/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>AGNTCon + MCPCon 2027 — San Francisco, CA (USA) — 28/04/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:b1b4d2333d279ee2</id>
-    <title>BA &amp; Beyond Europe Copenhagen 2027 — Copenhagen (Denmark) — 25/05/2027</title>
-    <link href="https://ba-beyond.eu"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>BA &amp; Beyond Europe Copenhagen 2027 — Copenhagen (Denmark) — 25/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:a8c3b3624a1f9c53</id>
-    <title>BA &amp; Beyond Europe Luxembourg 2027 — Luxembourg (Luxembourg) — 18/05/2027</title>
-    <link href="https://ba-beyond.eu"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>BA &amp; Beyond Europe Luxembourg 2027 — Luxembourg (Luxembourg) — 18/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:a7b40df37cf1e8e8</id>
-    <title>OWASP BASC 2027 — Boston, MA (USA) — 03/04/2027</title>
-    <link href="https://basconf.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>OWASP BASC 2027 — Boston, MA (USA) — 03/04/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:a7aff477b86ca99e</id>
-    <title>Winterkongress 2027 — Zurich (Switzerland) — 05/03/2027</title>
-    <link href="https://www.winterkongress.ch/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Winterkongress 2027 — Zurich (Switzerland) — 05/03/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:a4ab5bfa439a9cd8</id>
-    <title>Global Power Platform Bootcamp Alicante 2027 — Alicante (Spain) — 20/02/2027</title>
-    <link href="https://globalpowerplatformbootcamp2027alicante.eventbrite.es"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Global Power Platform Bootcamp Alicante 2027 — Alicante (Spain) — 20/02/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:a34f025b770fdb5e</id>
-    <title>Africa DevOps Summit 2026 — Nairobi (Kenya) — 20/11/2026</title>
-    <link href="https://nairobidevops.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Africa DevOps Summit 2026 — Nairobi (Kenya) — 20/11/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:9d631a23f99d362a</id>
-    <title>Global AI Nights Sofia 2026 — Sofia (Bulgaria) — 15/12/2026</title>
-    <link href="https://globalai.community/e/3bpbrt9d"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Global AI Nights Sofia 2026 — Sofia (Bulgaria) — 15/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:9b7c6f19e5cd5c15</id>
-    <title>Experience Global Power Platform &amp; Agent Bootcamp 2027 — Kongens Lyngby (Denmark) — 19/02/2027</title>
-    <link href="https://www.powerplatformbootcamp.com/2027/location-detail/?id=fe7be890-a9b8-f111-aad2-000d3ae9a84f&amp;city=Copenhagen"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Experience Global Power Platform &amp; Agent Bootcamp 2027 — Kongens Lyngby (Denmark) — 19/02/2027</summary>
   </entry>
 </feed>

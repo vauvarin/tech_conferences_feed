@@ -3200,6 +3200,13 @@
    "title": "Embedded Linux Conference Europe",
    "url": "https://events.linuxfoundation.org/embedded-linux-conference-europe/"
   },
+  "295251706283165a": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Berlin (Germany)",
+   "start": "2027-06-14",
+   "title": "webinale Berlin",
+   "url": "https://webinale.com/berlin"
+  },
   "296deeeb92cea159": {
    "first_seen": "baseline",
    "place": "Columbus, OH (USA)",
@@ -5265,6 +5272,13 @@
    "title": "Virtual EnvoyCon 10 Year Anniversary Edition",
    "url": "https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-virtual-envoycon-10-year-anniversary-edition/"
   },
+  "42c8c65d88c7089e": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Portland, OR (USA)",
+   "start": "2027-05-05",
+   "title": "Enterprise AI Summit",
+   "url": "https://events.itrevolution.com/2027-portland/"
+  },
   "42f2130fd3c82712": {
    "first_seen": "baseline",
    "place": "Gdynia (Poland)",
@@ -5803,6 +5817,13 @@
    "start": "2026-10-11",
    "title": "JavaCro'26",
    "url": "https://2026.javacro.hr/eng"
+  },
+  "49aee28f3d3a0564": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Birmingham (UK)",
+   "start": "2027-06-24",
+   "title": "AWS Community Summit Birmingham 2027",
+   "url": "https://www.comsum.co.uk/brum-27"
   },
   "49c9cca4556e39c6": {
    "first_seen": "baseline",
@@ -6749,6 +6770,13 @@
    "title": "BASTA! Fall 2026",
    "url": "https://basta.net/mainz/"
   },
+  "559ed23fa92959e1": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Rhineland Palatinate (Germany)",
+   "start": "2027-08-09",
+   "title": "JuliaCon 2027",
+   "url": "https://pretalx.com/juliacon-2027/"
+  },
   "55bf01ef56347d3d": {
    "first_seen": "baseline",
    "place": "Berlin (Germany)",
@@ -7210,6 +7238,13 @@
    "start": "2026-09-18",
    "title": "WordCamp Bretagne",
    "url": "https://bretagne.wordcamp.org/2026/"
+  },
+  "5a8035dd45d79854": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Dubai (United Arab Emirates)",
+   "start": "2027-03-17",
+   "title": "Enterprise Private AI UAE",
+   "url": "https://airswipe-global.com"
   },
   "5a9c56fe4b76d692": {
    "first_seen": "baseline",
@@ -11404,6 +11439,13 @@
    "title": "PyCon Australia",
    "url": "https://2026.pycon.org.au"
   },
+  "95d39dab8313348d": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Warsaw (Poland)",
+   "start": "2026-12-02",
+   "title": "Oh My Hack",
+   "url": "https://omhconf.pl"
+  },
   "95d7b04674ce93dc": {
    "first_seen": "baseline",
    "place": "Valencia (Spain)",
@@ -11935,6 +11977,13 @@
    "start": "2026-03-14",
    "title": "Power BI & Fabric Barcelona a Pallejà",
    "url": "https://www.meetup.com/es-ES/power-bi-barcelona/"
+  },
+  "9bbc55b58dba2f2c": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Online",
+   "start": "2026-11-17",
+   "title": "DuckDB × MySQL Day",
+   "url": "https://oursqlfoundation.org/events/duckdb-mysql-day"
   },
   "9bd4e5823fdeca98": {
    "first_seen": "baseline",
@@ -13490,6 +13539,13 @@
    "title": "DevFest Pretoria 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-pretoria-presents-devfest-pretoria-2026-build-secure-scale-developers-and-builders-in-the-agentic-era-2/"
   },
+  "b170d291025dfb1f": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Belgrade (Serbia)",
+   "start": "2026-12-12",
+   "title": "DevFest in the Cloud",
+   "url": "https://gdg.community.dev/events/details/google-gdg-belgrade-presents-devfest-in-the-cloud/"
+  },
   "b171cda1b44102d0": {
    "first_seen": "baseline",
    "place": "Darmstadt (Germany)",
@@ -14764,6 +14820,13 @@
    "title": "BDX I/O 2026",
    "url": "https://bdxio.fr/"
   },
+  "c1f33dd29d29aa93": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Jacksonville, FL (USA)",
+   "start": "2027-05-14",
+   "title": "Day of Data 2027",
+   "url": "https://dayofdata.org/jax"
+  },
   "c21c7a0005f75651": {
    "first_seen": "baseline",
    "place": "Bucharest (Romania)",
@@ -14973,6 +15036,13 @@
    "start": "2026-03-31",
    "title": "NH Cybersecurity Symposium at Manchester Community College",
    "url": "https://www.nhcybersecuritysymposium.com/"
+  },
+  "c5c83058cd189649": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "London (UK)",
+   "start": "2027-04-21",
+   "title": "CityJS 2027",
+   "url": "https://london.cityjsconf.org"
   },
   "c5e17a6fdd397094": {
    "first_seen": "baseline",
@@ -16654,6 +16724,13 @@
    "title": "MLcon Amsterdam",
    "url": "https://mlconference.ai/amsterdam"
   },
+  "dc4fdf955031e70f": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "San Francisco, CA (USA)",
+   "start": "2027-01-14",
+   "title": "Upstream",
+   "url": "https://upstream.snowxa.com"
+  },
   "dc676a060b3c3359": {
    "first_seen": "baseline",
    "place": "Bangkok (Thailand)",
@@ -17361,6 +17438,13 @@
    "title": "TechSummit Amsterdam",
    "url": "https://techsummit.io"
   },
+  "e50e2b82a3785072": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "Tilburg (Netherlands)",
+   "start": "2026-11-23",
+   "title": "BeNeLux Power 2026",
+   "url": "https://common.be/"
+  },
   "e52e24f927de9555": {
    "first_seen": "baseline",
    "place": "Ouagadougou (Burkina Faso)",
@@ -17731,6 +17815,13 @@
    "start": "2026-12-22",
    "title": "DevOpsDays Tel Aviv TLV 2026",
    "url": "https://devopsdays.org/events/2026-tel-aviv"
+  },
+  "e9b4a4a842bed569": {
+   "first_seen": "2026-11-18T00:59:55Z",
+   "place": "London (UK)",
+   "start": "2027-04-21",
+   "title": "CityAI by CityJS Conference",
+   "url": "https://london.cityaiconf.org"
   },
   "e9b9e3c35e600d9a": {
    "first_seen": "baseline",

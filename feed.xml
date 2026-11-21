@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-18T00:59:55Z</updated>
+  <updated>2026-11-21T19:24:07Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:ba7ac78659ae8413</id>
+    <title>Berlin Buzzwords 2027 — Berlin (Germany) — 13/06/2027</title>
+    <link href="https://berlinbuzzwords.de/"/>
+    <published>2026-11-21T19:24:07Z</published>
+    <updated>2026-11-21T19:24:07Z</updated>
+    <summary>Berlin Buzzwords 2027 — Berlin (Germany) — 13/06/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:70b24366e9cf2af1</id>
+    <title>BSides OT UK 2027 — Manchester (UK) — 09/04/2027</title>
+    <link href="https://bsidesot.uk/"/>
+    <published>2026-11-21T19:24:07Z</published>
+    <updated>2026-11-21T19:24:07Z</updated>
+    <summary>BSides OT UK 2027 — Manchester (UK) — 09/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:5681eb68fe86d762</id>
+    <title>DevFest Stockholm — Stockholm (Sweden) — 05/02/2027</title>
+    <link href="https://www.devfest-stockholm.com/"/>
+    <published>2026-11-21T19:24:07Z</published>
+    <updated>2026-11-21T19:24:07Z</updated>
+    <summary>DevFest Stockholm — Stockholm (Sweden) — 05/02/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:062931c42897e491</id>
+    <title>PyCon US 2027 — Long Beach, CA (USA) — 12/05/2027</title>
+    <link href="https://us.pycon.org/"/>
+    <published>2026-11-21T19:24:07Z</published>
+    <updated>2026-11-21T19:24:07Z</updated>
+    <summary>PyCon US 2027 — Long Beach, CA (USA) — 12/05/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:e9b4a4a842bed569</id>
     <title>CityAI by CityJS Conference — London (UK) — 21/04/2027</title>
@@ -214,37 +246,5 @@
     <published>2026-11-15T16:25:21Z</published>
     <updated>2026-11-15T16:25:21Z</updated>
     <summary>KubeCon + CloudNativeCon North America 2028 — Denver, CO (USA) — 11/12/2028</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:cf70ecec09b6419a</id>
-    <title>DevFest Ismailia 2026 — Ismailia (Egypt) — 21/11/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-digital-embryo-of-ai-agent/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>DevFest Ismailia 2026 — Ismailia (Egypt) — 21/11/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:cd6707c13e633be9</id>
-    <title>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</title>
-    <link href="https://bsidescharm.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:c8bd2d003334ede5</id>
-    <title>DevFest Aktobe 2026 — Актобе (Kazakhstan) — 12/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-aktobe-presents-devfest-aktobe-2026-build-connect-inspire/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>DevFest Aktobe 2026 — Актобе (Kazakhstan) — 12/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:c1769ea56821ed25</id>
-    <title>Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference — Shanghai (China) — 12/05/2027</title>
-    <link href="https://www.lfopensource.cn/open-nexus-china/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference — Shanghai (China) — 12/05/2027</summary>
   </entry>
 </feed>

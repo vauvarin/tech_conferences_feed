@@ -519,6 +519,13 @@
    "title": "Global Power Platform Bootcamp Castelló de la Plana 2027",
    "url": "https://www.powerplatformcastellon.es/"
   },
+  "062931c42897e491": {
+   "first_seen": "2026-11-21T19:24:07Z",
+   "place": "Long Beach, CA (USA)",
+   "start": "2027-05-12",
+   "title": "PyCon US 2027",
+   "url": "https://us.pycon.org/"
+  },
   "063620b1bac4d490": {
    "first_seen": "baseline",
    "place": "London (UK)",
@@ -6840,6 +6847,13 @@
    "title": "Web Summit Rio",
    "url": "https://rio.websummit.com/"
   },
+  "5681eb68fe86d762": {
+   "first_seen": "2026-11-21T19:24:07Z",
+   "place": "Stockholm (Sweden)",
+   "start": "2027-02-05",
+   "title": "DevFest Stockholm",
+   "url": "https://www.devfest-stockholm.com/"
+  },
   "5688f03a012fa859": {
    "first_seen": "baseline",
    "place": "Lisbon (Portugal)",
@@ -8820,6 +8834,13 @@
    "start": "2026-04-25",
    "title": "SQL Saturday Arequipa - 2026",
    "url": "https://www.meetup.com/cloudexpertsc/events/313851215/?eventOrigin=group_upcoming_events"
+  },
+  "70b24366e9cf2af1": {
+   "first_seen": "2026-11-21T19:24:07Z",
+   "place": "Manchester (UK)",
+   "start": "2027-04-09",
+   "title": "BSides OT UK 2027",
+   "url": "https://bsidesot.uk/"
   },
   "70b43434988f2cca": {
    "first_seen": "baseline",
@@ -14266,6 +14287,13 @@
    "start": "2026-07-16",
    "title": "DroidCon",
    "url": "https://usa.droidcon.com/"
+  },
+  "ba7ac78659ae8413": {
+   "first_seen": "2026-11-21T19:24:07Z",
+   "place": "Berlin (Germany)",
+   "start": "2027-06-13",
+   "title": "Berlin Buzzwords 2027",
+   "url": "https://berlinbuzzwords.de/"
   },
   "baa88e339fd9d2fc": {
    "first_seen": "baseline",

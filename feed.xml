@@ -176,14 +176,6 @@
     <summary>DevFest Niamey 2026 — Niamey (Niger) — 29/11/2026</summary>
   </entry>
   <entry>
-    <id>urn:developers-events:f7465c394bfec098</id>
-    <title>WordCamp Bengaluru 2026 — Bengaluru (India) — 21/11/2026</title>
-    <link href="https://bengaluru.wordcamp.org/2026/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>WordCamp Bengaluru 2026 — Bengaluru (India) — 21/11/2026</summary>
-  </entry>
-  <entry>
     <id>urn:developers-events:f66ee46820c48c2e</id>
     <title>Devfest Giza 2026 — Second Al Sheikh Zayed (Egypt) — 05/12/2026</title>
     <link href="https://gdg.community.dev/events/details/google-gdg-giza-presents-devfest-giza-2026-think-bigger-build-further/"/>
@@ -246,5 +238,13 @@
     <published>2026-11-15T16:25:21Z</published>
     <updated>2026-11-15T16:25:21Z</updated>
     <summary>KubeCon + CloudNativeCon North America 2028 — Denver, CO (USA) — 11/12/2028</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:cd6707c13e633be9</id>
+    <title>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</title>
+    <link href="https://bsidescharm.org/"/>
+    <published>2026-11-15T16:25:21Z</published>
+    <updated>2026-11-15T16:25:21Z</updated>
+    <summary>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</summary>
   </entry>
 </feed>

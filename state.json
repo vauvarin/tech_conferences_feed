@@ -512,6 +512,13 @@
    "title": "DevOps 2.0",
    "url": "https://devops.gainskillsmedia.com/6th/"
   },
+  "05ed3a04026b4337": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Boise, ID (USA)",
+   "start": "2027-05-01",
+   "title": "Boise Code Camp 2027",
+   "url": "https://www.boisecodecamp.com"
+  },
   "0608eaf3be8fde58": {
    "first_seen": "2026-11-15T16:25:21Z",
    "place": "Castelló de la Plana (Spain)",
@@ -2087,6 +2094,13 @@
    "title": "Power Platform Bootcamp 2026 México con Inteligencia Artificial aplicada",
    "url": "https://www.meetup.com/globalaicdmx/events/312777254/"
   },
+  "19eac3e70159e989": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Vijayawada (India)",
+   "start": "2027-01-30",
+   "title": "F.E.X Edition 1 2027",
+   "url": "https://fex.aquesa-solutions.com/"
+  },
   "19ed9f37471336f9": {
    "first_seen": "baseline",
    "place": "Lima (Peru)",
@@ -2359,6 +2373,13 @@
    "start": "2026-02-10",
    "title": "Voxxed Days CERN",
    "url": "https://cern.voxxeddays.com/"
+  },
+  "1ee3c6f80ef985de": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Madrid (Spain)",
+   "start": "2027-11-01",
+   "title": "Arcasiles Community Talks 2027",
+   "url": "https://arcasiles.com"
   },
   "1ee4be6a0807d87a": {
    "first_seen": "baseline",
@@ -2765,6 +2786,13 @@
    "start": "2026-10-03",
    "title": "Ash Conference 2026",
    "url": "https://www.goatmire.com"
+  },
+  "24bc57047f8fb3dd": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Hangzhou (China)",
+   "start": "2026-11-28",
+   "title": "Kubernetes Community Days KCD Hangzhou 2026",
+   "url": "https://community2.cncf.io/events/details/cncf-kcd-hangzhou-presents-kcd-hangzhou-2026/"
   },
   "24dca8063dbcdbb0": {
    "first_seen": "baseline",
@@ -3963,6 +3991,13 @@
    "title": "Winterkongress",
    "url": "https://www.winterkongress.ch/"
   },
+  "3152613ded62f080": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Delft (Netherlands)",
+   "start": "2027-04-13",
+   "title": "TrustSecAI 2027",
+   "url": "https://cs-conferences.acadiau.ca/ant-27/"
+  },
   "316335da62201e4c": {
    "first_seen": "baseline",
    "place": "Utrecht (Netherlands)",
@@ -4858,6 +4893,13 @@
    "start": "2026-11-19",
    "title": "OVHcloud Summit",
    "url": "https://summit.ovhcloud.com/en/"
+  },
+  "3cdbae272bf32876": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Manchester (UK)",
+   "start": "2027-09-30",
+   "title": "AWS Community Summit 2027",
+   "url": "https://www.comsum.co.uk"
   },
   "3d0ddf5577be0bd7": {
    "first_seen": "baseline",
@@ -5817,6 +5859,13 @@
    "start": "2026-03-17",
    "title": "Programmable 2026 - Melbourne",
    "url": "https://programmable.tech"
+  },
+  "499958ac38bed137": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Baltimore, MD (USA)",
+   "start": "2027-05-18",
+   "title": "Devopsdays Baltimore",
+   "url": "https://devopsdays.org/events/2027-baltimore"
   },
   "499bbe7c0d280ec5": {
    "first_seen": "baseline",
@@ -9430,6 +9479,13 @@
    "title": "Epitech Summit 2026 - Nantes",
    "url": "https://conference-hall.io/epitech-summit-2026"
   },
+  "7844dc47ef74dbb2": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Bogotá (Colombia)",
+   "start": "2027-10-22",
+   "title": "Devopsdays bogota",
+   "url": "https://devopsdays.org/events/2027-bogota"
+  },
   "7870343fcf8023cf": {
    "first_seen": "baseline",
    "place": "Austin, TX (USA)",
@@ -12888,6 +12944,13 @@
    "title": "Baltic Ruby 2026",
    "url": "https://balticruby.org"
   },
+  "a7998d491d04625b": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Warszawa (Poland)",
+   "start": "2026-12-05",
+   "title": "DevFest Politechnika Warszawska",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-devfest-politechnika-warszawska-gdg-days-2026/"
+  },
   "a79b7ab23de637af": {
    "first_seen": "baseline",
    "place": "Cluj-Napoca (Romania)",
@@ -15856,6 +15919,13 @@
    "title": "HelloStavanger 2026",
    "url": "https://hellostavanger.no"
   },
+  "d0829736c98bdf45": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Krakow (Poland)",
+   "start": "2027-05-13",
+   "title": "GeeCON",
+   "url": "https://2027.geecon.org/"
+  },
   "d08c5975dd1b144d": {
    "first_seen": "baseline",
    "place": "Leeds (UK)",
@@ -17613,6 +17683,13 @@
    "title": "DevFest Paris 2026",
    "url": "https://devfest.gdgparis.fr/"
   },
+  "e6d31e3b3c5b38ad": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Kigali (Rwanda)",
+   "start": "2026-12-12",
+   "title": "DevFest Kigali 2026 Women in Tech",
+   "url": "https://gdg.community.dev/events/details/google-gdg-kigali-presents-devfest-kigali-2026-women-in-tech-leadership-event/"
+  },
   "e6d9137c527943ed": {
    "first_seen": "baseline",
    "place": "Edinburgh (UK)",
@@ -19139,6 +19216,13 @@
    "title": "Laracon EU",
    "url": "https://laracon.eu/"
   },
+  "f88d34c2fbb9a333": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Urgench (Uzbekistan)",
+   "start": "2026-12-12",
+   "title": "GDG Urgench DevFest 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-urgench-presents-gdg-urgench-devfest-2026/"
+  },
   "f891cb05837b0671": {
    "first_seen": "baseline",
    "place": "Online",
@@ -19222,6 +19306,13 @@
    "start": "2026-11-28",
    "title": "DevFest Skopje 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-skopje-presents-devfest-skopje-2026-1/"
+  },
+  "f9cdb66cc73daaea": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Amsterdam (Netherlands)",
+   "start": "2027-05-20",
+   "title": "Tech Lead Conference 2027",
+   "url": "https://techleadconf.com/"
   },
   "f9d1e730a2fd2b76": {
    "first_seen": "baseline",
@@ -19453,6 +19544,13 @@
    "start": "2026-03-24",
    "title": "Cloud Native University - Cloud Native Theater @ Kubecon EU 2026",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/cloud-native-theater/#cloud-native-university"
+  },
+  "fcb1be10bf03e2eb": {
+   "first_seen": "2026-11-22T19:47:42Z",
+   "place": "Amravati (India)",
+   "start": "2026-12-26",
+   "title": ".NET Conf 2026",
+   "url": "https://dnc.mscprpcem.tech"
   },
   "fcf52b43a8ec3e7e": {
    "first_seen": "baseline",

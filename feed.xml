@@ -2,11 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-21T19:24:07Z</updated>
+  <updated>2026-11-22T19:47:42Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:fcb1be10bf03e2eb</id>
+    <title>.NET Conf 2026 — Amravati (India) — 26/12/2026</title>
+    <link href="https://dnc.mscprpcem.tech"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>.NET Conf 2026 — Amravati (India) — 26/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:f9cdb66cc73daaea</id>
+    <title>Tech Lead Conference 2027 — Amsterdam (Netherlands) — 20/05/2027</title>
+    <link href="https://techleadconf.com/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Tech Lead Conference 2027 — Amsterdam (Netherlands) — 20/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:f88d34c2fbb9a333</id>
+    <title>GDG Urgench DevFest 2026 — Urgench (Uzbekistan) — 12/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-urgench-presents-gdg-urgench-devfest-2026/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>GDG Urgench DevFest 2026 — Urgench (Uzbekistan) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:e6d31e3b3c5b38ad</id>
+    <title>DevFest Kigali 2026 Women in Tech — Kigali (Rwanda) — 12/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-kigali-presents-devfest-kigali-2026-women-in-tech-leadership-event/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>DevFest Kigali 2026 Women in Tech — Kigali (Rwanda) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d0829736c98bdf45</id>
+    <title>GeeCON — Krakow (Poland) — 13/05/2027</title>
+    <link href="https://2027.geecon.org/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>GeeCON — Krakow (Poland) — 13/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:a7998d491d04625b</id>
+    <title>DevFest Politechnika Warszawska — Warszawa (Poland) — 05/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-devfest-politechnika-warszawska-gdg-days-2026/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>DevFest Politechnika Warszawska — Warszawa (Poland) — 05/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:7844dc47ef74dbb2</id>
+    <title>Devopsdays bogota — Bogotá (Colombia) — 22/10/2027</title>
+    <link href="https://devopsdays.org/events/2027-bogota"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Devopsdays bogota — Bogotá (Colombia) — 22/10/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:499958ac38bed137</id>
+    <title>Devopsdays Baltimore — Baltimore, MD (USA) — 18/05/2027</title>
+    <link href="https://devopsdays.org/events/2027-baltimore"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Devopsdays Baltimore — Baltimore, MD (USA) — 18/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:3cdbae272bf32876</id>
+    <title>AWS Community Summit 2027 — Manchester (UK) — 30/09/2027</title>
+    <link href="https://www.comsum.co.uk"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>AWS Community Summit 2027 — Manchester (UK) — 30/09/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:3152613ded62f080</id>
+    <title>TrustSecAI 2027 — Delft (Netherlands) — 13/04/2027</title>
+    <link href="https://cs-conferences.acadiau.ca/ant-27/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>TrustSecAI 2027 — Delft (Netherlands) — 13/04/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:24bc57047f8fb3dd</id>
+    <title>Kubernetes Community Days KCD Hangzhou 2026 — Hangzhou (China) — 28/11/2026</title>
+    <link href="https://community2.cncf.io/events/details/cncf-kcd-hangzhou-presents-kcd-hangzhou-2026/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Kubernetes Community Days KCD Hangzhou 2026 — Hangzhou (China) — 28/11/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:1ee3c6f80ef985de</id>
+    <title>Arcasiles Community Talks 2027 — Madrid (Spain) — 01/11/2027</title>
+    <link href="https://arcasiles.com"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Arcasiles Community Talks 2027 — Madrid (Spain) — 01/11/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:19eac3e70159e989</id>
+    <title>F.E.X Edition 1 2027 — Vijayawada (India) — 30/01/2027</title>
+    <link href="https://fex.aquesa-solutions.com/"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>F.E.X Edition 1 2027 — Vijayawada (India) — 30/01/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:05ed3a04026b4337</id>
+    <title>Boise Code Camp 2027 — Boise, ID (USA) — 01/05/2027</title>
+    <link href="https://www.boisecodecamp.com"/>
+    <published>2026-11-22T19:47:42Z</published>
+    <updated>2026-11-22T19:47:42Z</updated>
+    <summary>Boise Code Camp 2027 — Boise, ID (USA) — 01/05/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:ba7ac78659ae8413</id>
     <title>Berlin Buzzwords 2027 — Berlin (Germany) — 13/06/2027</title>
@@ -134,117 +246,5 @@
     <published>2026-11-18T00:59:55Z</published>
     <updated>2026-11-18T00:59:55Z</updated>
     <summary>webinale Berlin — Berlin (Germany) — 14/06/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:fff02ce16433349e</id>
-    <title>.NET Conf GT Online 2026 — Online — 05/12/2026</title>
-    <link href="https://www.meetup.com/techcommunitygt/events/317026280/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>.NET Conf GT Online 2026 — Online — 05/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:fdfd9bf9990f0518</id>
-    <title>Percona Live Bay Area 2027 — Mountain View, CA (USA) — 11/05/2027</title>
-    <link href="http://perconalive.com/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Percona Live Bay Area 2027 — Mountain View, CA (USA) — 11/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:fbf73ab2bb1bf4b3</id>
-    <title>DevFest Al Mansura 26 — Al Mansura (Yemen) — 12/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-aden-presents-devfest-26-ai-for-all/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>DevFest Al Mansura 26 — Al Mansura (Yemen) — 12/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:f9fad3bd6a471383</id>
-    <title>EnsaïmadaConf - DevFest Mallorca 2026 — Palma de Mallorca (Spain) — 28/11/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-mallorca-presents-ensaimadaconf-devfest-mallorca-2026/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>EnsaïmadaConf - DevFest Mallorca 2026 — Palma de Mallorca (Spain) — 28/11/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:f918328933782e81</id>
-    <title>DevFest Niamey 2026 — Niamey (Niger) — 29/11/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-niamey-presents-devfest-niamey-2026-lia-au-service-de-lagriculture-au-niger/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>DevFest Niamey 2026 — Niamey (Niger) — 29/11/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:f66ee46820c48c2e</id>
-    <title>Devfest Giza 2026 — Second Al Sheikh Zayed (Egypt) — 05/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-giza-presents-devfest-giza-2026-think-bigger-build-further/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Devfest Giza 2026 — Second Al Sheikh Zayed (Egypt) — 05/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:f43c0074a43deece</id>
-    <title>JChateau — Loire Valley (France) — 10/03/2027</title>
-    <link href="https://www.jchateau.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>JChateau — Loire Valley (France) — 10/03/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:ee096efa34684a96</id>
-    <title>GDG Aix DevFest 2026 — Aix-en-Provence (France) — 08/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-devfest-2026-une-nouvelle-edition-provencale/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>GDG Aix DevFest 2026 — Aix-en-Provence (France) — 08/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:e81de825ec81ee12</id>
-    <title>University:Future Festival 2027 — Berlin (Germany) — 08/06/2027</title>
-    <link href="https://festival.hfd.digital/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>University:Future Festival 2027 — Berlin (Germany) — 08/06/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:e592723a8fdabd2b</id>
-    <title>TechMentor &amp; Cybersecurity Live 2027 — Redmond, WA (USA) — 09/08/2027</title>
-    <link href="https://techmentorevents.com/events/microsofthq-2027/home.aspx"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>TechMentor &amp; Cybersecurity Live 2027 — Redmond, WA (USA) — 09/08/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:e4c771ca59d7dde0</id>
-    <title>Homebrew Con 2027 — Milwaukee, WI (USA) — 16/07/2027</title>
-    <link href="https://homebrewcon.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>Homebrew Con 2027 — Milwaukee, WI (USA) — 16/07/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:e351b107469416c2</id>
-    <title>NTD 2027 — Tallinn (Estonia) — 02/06/2027</title>
-    <link href="https://sessionize.com/ntd-2027/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>NTD 2027 — Tallinn (Estonia) — 02/06/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:ded9ff90aa27dca5</id>
-    <title>KubeCon + CloudNativeCon North America 2028 — Denver, CO (USA) — 11/12/2028</title>
-    <link href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>KubeCon + CloudNativeCon North America 2028 — Denver, CO (USA) — 11/12/2028</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:cd6707c13e633be9</id>
-    <title>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</title>
-    <link href="https://bsidescharm.org/"/>
-    <published>2026-11-15T16:25:21Z</published>
-    <updated>2026-11-15T16:25:21Z</updated>
-    <summary>BSidesCharm 2027 — Baltimore, MD (USA) — 23/04/2027</summary>
   </entry>
 </feed>

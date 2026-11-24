@@ -1331,6 +1331,13 @@
    "title": "EuroSTAR Conference",
    "url": "https://conference.eurostarsoftwaretesting.com"
   },
+  "0fa6b61f22a50417": {
+   "first_seen": "2026-11-24T23:56:07Z",
+   "place": "Nantes (France)",
+   "start": "2027-06-10",
+   "title": "TechReady 2027",
+   "url": "https://techready.live/"
+  },
   "0fa930ab901ebe65": {
    "first_seen": "baseline",
    "place": "Santa Cruz de la Sierra (Bolivia)",
@@ -4186,6 +4193,13 @@
    "start": "2026-05-27",
    "title": "Percona Live",
    "url": "https://perconalive.com/2026-usa/"
+  },
+  "3336f9b83294fce6": {
+   "first_seen": "2026-11-24T23:56:07Z",
+   "place": "Ume (Sweden)",
+   "start": "2027-03-18",
+   "title": "Umedev 2027",
+   "url": "https://umedev.org"
   },
   "335c3090d4de5d06": {
    "first_seen": "baseline",
@@ -16094,6 +16108,13 @@
    "title": "Cybersecurity - una gara da vincere 2026",
    "url": "https://www.linkedin.com/company/cybergaradavincere/?viewAsMember=true"
   },
+  "d267dac0d7bb51c2": {
+   "first_seen": "2026-11-24T23:56:07Z",
+   "place": "Tokyo (Japan)",
+   "start": "2027-12-09",
+   "title": "Open Compliance Summit 2027",
+   "url": "https://events.linuxfoundation.org/open-compliance-summit-2027/"
+  },
   "d2979b24f469b78c": {
    "first_seen": "baseline",
    "place": "Guadalajara (Mexico)",
@@ -17486,6 +17507,13 @@
    "start": "2027-06-02",
    "title": "NTD 2027",
    "url": "https://sessionize.com/ntd-2027/"
+  },
+  "e36fd48f356ebd01": {
+   "first_seen": "2026-11-24T23:56:07Z",
+   "place": "Tokyo (Japan)",
+   "start": "2027-12-06",
+   "title": "Open Source Summit Japan 2027",
+   "url": "https://events.linuxfoundation.org/open-source-summit-japan-2027/"
   },
   "e3e1571e37fca3c9": {
    "first_seen": "baseline",

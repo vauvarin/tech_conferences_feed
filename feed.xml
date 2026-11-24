@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-24T02:16:45Z</updated>
+  <updated>2026-11-24T23:56:07Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:e36fd48f356ebd01</id>
+    <title>Open Source Summit Japan 2027 — Tokyo (Japan) — 06/12/2027</title>
+    <link href="https://events.linuxfoundation.org/open-source-summit-japan-2027/"/>
+    <published>2026-11-24T23:56:07Z</published>
+    <updated>2026-11-24T23:56:07Z</updated>
+    <summary>Open Source Summit Japan 2027 — Tokyo (Japan) — 06/12/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d267dac0d7bb51c2</id>
+    <title>Open Compliance Summit 2027 — Tokyo (Japan) — 09/12/2027</title>
+    <link href="https://events.linuxfoundation.org/open-compliance-summit-2027/"/>
+    <published>2026-11-24T23:56:07Z</published>
+    <updated>2026-11-24T23:56:07Z</updated>
+    <summary>Open Compliance Summit 2027 — Tokyo (Japan) — 09/12/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:3336f9b83294fce6</id>
+    <title>Umedev 2027 — Ume (Sweden) — 18/03/2027</title>
+    <link href="https://umedev.org"/>
+    <published>2026-11-24T23:56:07Z</published>
+    <updated>2026-11-24T23:56:07Z</updated>
+    <summary>Umedev 2027 — Ume (Sweden) — 18/03/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:0fa6b61f22a50417</id>
+    <title>TechReady 2027 — Nantes (France) — 10/06/2027</title>
+    <link href="https://techready.live/"/>
+    <published>2026-11-24T23:56:07Z</published>
+    <updated>2026-11-24T23:56:07Z</updated>
+    <summary>TechReady 2027 — Nantes (France) — 10/06/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:8b47d28763f5d063</id>
     <title>DevFest Kenitra 2026 — Kenitra (Morocco) — 12/12/2026</title>
@@ -214,37 +246,5 @@
     <published>2026-11-18T00:59:55Z</published>
     <updated>2026-11-18T00:59:55Z</updated>
     <summary>Day of Data 2027 — Jacksonville, FL (USA) — 14/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:b170d291025dfb1f</id>
-    <title>DevFest in the Cloud — Belgrade (Serbia) — 12/12/2026</title>
-    <link href="https://gdg.community.dev/events/details/google-gdg-belgrade-presents-devfest-in-the-cloud/"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>DevFest in the Cloud — Belgrade (Serbia) — 12/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:95d39dab8313348d</id>
-    <title>Oh My Hack — Warsaw (Poland) — 02/12/2026</title>
-    <link href="https://omhconf.pl"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>Oh My Hack — Warsaw (Poland) — 02/12/2026</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:5a8035dd45d79854</id>
-    <title>Enterprise Private AI UAE — Dubai (United Arab Emirates) — 17/03/2027</title>
-    <link href="https://airswipe-global.com"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>Enterprise Private AI UAE — Dubai (United Arab Emirates) — 17/03/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:559ed23fa92959e1</id>
-    <title>JuliaCon 2027 — Rhineland Palatinate (Germany) — 09/08/2027</title>
-    <link href="https://pretalx.com/juliacon-2027/"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>JuliaCon 2027 — Rhineland Palatinate (Germany) — 09/08/2027</summary>
   </entry>
 </feed>

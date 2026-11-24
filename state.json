@@ -701,6 +701,13 @@
    "title": "Spring I/O",
    "url": "https://springio.net/"
   },
+  "088f1943d10b70f5": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Poznan (Poland)",
+   "start": "2026-11-18",
+   "title": "DevFest Poznań 2026 x Merytoryczna Środa Sii Poznań x TechWeek PozitiveTech",
+   "url": "https://gdg.community.dev/events/details/google-gdg-poznan-presents-devfest-poznan-2026-x-merytoryczna-sroda-sii-poznan-x-techweek-pozitivetech/"
+  },
   "08a0e8f8c59ca535": {
    "first_seen": "baseline",
    "place": "Menlo Park, CA (USA)",
@@ -1330,6 +1337,13 @@
    "start": "2026-08-29",
    "title": "AWS Community Day Bolivia 2026",
    "url": "https://day.awscommunity.org.bo/"
+  },
+  "0fc08fb26ad0f138": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Bangkok (Thailand)",
+   "start": "2027-03-08",
+   "title": "FOSSASIA Summit 2027",
+   "url": "https://eventyay.com/fossasia/summit2027/"
   },
   "0fc348050721f2c8": {
    "first_seen": "baseline",
@@ -7785,6 +7799,13 @@
    "title": "Percona Live Amsterdam",
    "url": "http://perconalive.com/"
   },
+  "6140752871f7f1d2": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Bangkok (Thailand)",
+   "start": "2027-03-09",
+   "title": "FOSSASIA PGDay 2027",
+   "url": "https://eventyay.com/fossasia/pgday2027/"
+  },
   "615cfc01478e2a42": {
    "first_seen": "baseline",
    "place": "Online",
@@ -8190,6 +8211,13 @@
    "start": "2026-09-19",
    "title": "WhatTheStack",
    "url": "https://wts.sh"
+  },
+  "677ab8181d7a1ea3": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Surat (India)",
+   "start": "2026-12-20",
+   "title": "GDG DevFest Surat 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-surat-presents-gdg-devfest-surat-2026/"
   },
   "677abb7a66b9dc77": {
    "first_seen": "baseline",
@@ -10794,6 +10822,13 @@
    "start": "2026-05-14",
    "title": "C1B3RTR4CKS",
    "url": "https://www.c1b3rtr4cks.es/"
+  },
+  "8b47d28763f5d063": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Kenitra (Morocco)",
+   "start": "2026-12-12",
+   "title": "DevFest Kenitra 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-kenitra-presents-devfest-kenitra-2026/"
   },
   "8b5aa7990a677cb9": {
    "first_seen": "baseline",
@@ -18039,6 +18074,13 @@
    "start": "2026-11-07",
    "title": "Devfest Jinja 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-jinja-presents-devfest-jinja-2026/"
+  },
+  "ea4a031c77bed82f": {
+   "first_seen": "2026-11-24T02:16:45Z",
+   "place": "Amarah (Iraq)",
+   "start": "2026-11-13",
+   "title": "DevFest Maysan 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-maysan-presents-devfest-maysan-2026/"
   },
   "ea4ba4c0d474b75f": {
    "first_seen": "baseline",

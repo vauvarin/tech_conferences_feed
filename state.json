@@ -106,12 +106,26 @@
    "title": "DevFest Lokoja 2026",
    "url": "http://devfest.gdglokoja.com/"
   },
+  "013087f29e0e8890": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Miami, FL (USA)",
+   "start": "2026-04-20",
+   "title": "AI Engineer Miami 2026",
+   "url": "https://ai.engineer/miami/2026"
+  },
   "015193c2e18ecc21": {
    "first_seen": "baseline",
    "place": "Herzliya (Israel)",
    "start": "2026-05-28",
    "title": "AI Power Agents 2026",
    "url": "https://aipoweragentsconf.com"
+  },
+  "0166288736140fe8": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "San Jose, CA (USA)",
+   "start": "2026-03-16",
+   "title": "NVIDIA GTC 2026 - San Jose",
+   "url": "https://www.nvidia.com/gtc"
   },
   "0191aed8be1b7b75": {
    "first_seen": "baseline",
@@ -1652,6 +1666,13 @@
    "start": "2026-06-26",
    "title": "AgentCon - Orlando",
    "url": "https://agentcon.city/orlando"
+  },
+  "13a2f1ae0d04450f": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Bwari (Nigeria)",
+   "start": "2026-10-24",
+   "title": "GDG Abuja x Veritas University",
+   "url": "https://gdg.community.dev/events/details/google-gdg-abuja-presents-gdg-abuja-x-veritas-university-road-to-devfest/"
   },
   "13ac49b79d914a15": {
    "first_seen": "baseline",
@@ -3627,6 +3648,13 @@
    "title": "Global Azure London 2026",
    "url": "https://globalazure.net"
   },
+  "2d3fdc57d9eccc6d": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Ramallah (Palestine)",
+   "start": "2026-11-22",
+   "title": "DevFest Palestine 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-birzeit-university-birzeit-palestine-presents-devfest-2026-technical-investigation-challenge/"
+  },
   "2d6aa7013aa6a1d0": {
    "first_seen": "baseline",
    "place": "Prague (Czechia)",
@@ -4271,6 +4299,13 @@
    "title": "NeoCloudCon Europe",
    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/neocloudcon/"
   },
+  "3408e9dd479e8d02": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Béja (Tunisia)",
+   "start": "2026-10-10",
+   "title": "devfest Beja  Hackathon Edition",
+   "url": "https://gdg.community.dev/events/details/google-gdg-beja-presents-devfest-beja-hackathon-edition/"
+  },
   "340e3d6cfff2cb73": {
    "first_seen": "baseline",
    "place": "Perth (Australia)",
@@ -4473,6 +4508,13 @@
    "start": "2027-02-10",
    "title": "ContainerDays & AI Context London 2027",
    "url": "https://pretix.eu/docklandmedia/cdsaicontextlondon27/"
+  },
+  "36fbcb4420d7f594": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Singapore (Singapore)",
+   "start": "2026-05-15",
+   "title": "AI Engineer Singapore 2026",
+   "url": "https://ai.engineer/singapore/2026"
   },
   "371108e7ed8f15ed": {
    "first_seen": "baseline",
@@ -5300,6 +5342,13 @@
    "title": "PyHo 2026",
    "url": "https://2026.pythonho.com/"
   },
+  "4218a7dfa0d25f7e": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Harare (Zimbabwe)",
+   "start": "2026-10-24",
+   "title": "DevFest  Harare",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-zimbabwe-harare-zimbabwe-presents-devfest-harare-building-in-the-agentic-era/"
+  },
   "4219814fc17acd17": {
    "first_seen": "baseline",
    "place": "Lima (Peru)",
@@ -5383,6 +5432,13 @@
    "start": "2026-06-12",
    "title": "AgentCon - Miami",
    "url": "https://agentcon.city/miami"
+  },
+  "4369efbc953fee95": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Paris (France)",
+   "start": "2026-09-23",
+   "title": "AI Engineer Paris 2026",
+   "url": "https://ai.engineer/paris/2026"
   },
   "436e4f2d5102925f": {
    "first_seen": "baseline",
@@ -5887,6 +5943,13 @@
    "start": "2026-03-17",
    "title": "Programmable 2026 - Melbourne",
    "url": "https://programmable.tech"
+  },
+  "4989ca1160190283": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "San Francisco, CA (USA)",
+   "start": "2026-11-10",
+   "title": "AI Engineer CODE Summit SF 2026",
+   "url": "https://ai.engineer/code/2026"
   },
   "499958ac38bed137": {
    "first_seen": "2026-11-22T19:47:42Z",
@@ -6504,6 +6567,13 @@
    "title": "DevFest Belgium",
    "url": "https://devfest-belgium.be"
   },
+  "508e2d972a829455": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Juba (South Sudan)",
+   "start": "2026-10-24",
+   "title": "DevFest Juba 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-juba-presents-devfest-juba-2026-ignite-your-innovation/"
+  },
   "50babc79b209ad03": {
    "first_seen": "baseline",
    "place": "Kraków (Poland)",
@@ -6839,6 +6909,13 @@
    "start": "2026-11-17",
    "title": "LLMDay + Data TLV",
    "url": "https://in10t.ai/llmday-dataday-tlv"
+  },
+  "554b1c3ddfcdbd2e": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Gabes (Tunisia)",
+   "start": "2026-10-31",
+   "title": "DevFest Gabes 2026",
+   "url": "https://gdg.community.dev/events/details/google-gdg-gabes-presents-devfest-gabes-2026/"
   },
   "55888983f13dc757": {
    "first_seen": "baseline",
@@ -7876,6 +7953,13 @@
    "title": "BSides Maribor 2026",
    "url": "https://bsidesmaribor.si/"
   },
+  "622bb877b660e955": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Maseru (Lesotho)",
+   "start": "2026-12-12",
+   "title": "GDG Maseru DevFest",
+   "url": "https://gdg.community.dev/events/details/google-gdg-maseru-presents-gdg-maseru-devfest/"
+  },
   "625c0edf675a4781": {
    "first_seen": "baseline",
    "place": "Belval (Luxembourg)",
@@ -8288,6 +8372,13 @@
    "start": "2026-05-28",
    "title": "CommunityDays KC 2026",
    "url": "https://www.communitydays.info"
+  },
+  "68524ef7765f0d38": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Melbourne (Australia)",
+   "start": "2026-06-03",
+   "title": "AI Engineer Melbourne 2026",
+   "url": "https://webdirections.org/ai-engineer/"
   },
   "68574bba85963c3b": {
    "first_seen": "baseline",
@@ -9745,6 +9836,13 @@
    "title": "Azure AI Winter Jam",
    "url": "https://globalai.community/chapters/hilversum/events/azure-ai-winter-jam/"
   },
+  "7bbdba270385bde2": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Shanghai (China)",
+   "start": "2026-11-05",
+   "title": "AI Engineer Shanghai 2026",
+   "url": "https://ai.engineer/shanghai/2026"
+  },
   "7bc49c26005ce058": {
    "first_seen": "baseline",
    "place": "London (UK)",
@@ -10325,6 +10423,13 @@
    "start": "2026-04-21",
    "title": "Open Community Experience (OCX)",
    "url": "https://www.ocxconf.org"
+  },
+  "83b2c3c73cf9feaf": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Kinshasa (Democratic Republic of the Congo)",
+   "start": "2026-10-21",
+   "title": "Pré-session DevFest",
+   "url": "https://gdg.community.dev/events/details/google-gdg-kinshasa-presents-pre-session-devfest-mini-bootcamp-web-amp-ia/"
   },
   "83b9bc682a63c826": {
    "first_seen": "baseline",
@@ -16871,6 +16976,13 @@
    "title": "DecompileD 2026",
    "url": "https://decompiled.de"
   },
+  "dc23c97168b01b8c": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "London (UK)",
+   "start": "2026-04-08",
+   "title": "AI Engineer Europe 2026",
+   "url": "https://ai.engineer/europe/2026"
+  },
   "dc242a784e55bee9": {
    "first_seen": "baseline",
    "place": "Amsterdam (Netherlands)",
@@ -19768,6 +19880,13 @@
    "start": "2026-02-05",
    "title": "Bug Future Show 2026",
    "url": "https://bfs.bug.hr/"
+  },
+  "fe5c65890712bec8": {
+   "first_seen": "2026-11-26T03:37:59Z",
+   "place": "Glasgow (UK)",
+   "start": "2027-09-20",
+   "title": "Embedded Open Source Summit Europe",
+   "url": "https://events.linuxfoundation.org/embedded-open-source-summit-europe/"
   },
   "fe5ca3c9905afd2a": {
    "first_seen": "baseline",

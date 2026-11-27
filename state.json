@@ -1996,6 +1996,13 @@
    "title": "KCD Beijing + vLLM 2026",
    "url": "https://community.cncf.io/events/details/cncf-kcd-beijing-presents-kcd-beijing-vllm-2026/"
   },
+  "186039ba67e2e135": {
+   "first_seen": "2026-11-27T23:30:26Z",
+   "place": "Delft (Netherlands)",
+   "start": "2027-04-13",
+   "title": "NLUUG spring event 2026",
+   "url": "https://nluug.nl/evenementen/nluug/voorjaarsconferentie-2027/"
+  },
   "1864b1800f3e966b": {
    "first_seen": "baseline",
    "place": "Palatine, IL (USA)",
@@ -2667,6 +2674,13 @@
    "start": "2026-08-30",
    "title": "FOSS4G Hiroshima",
    "url": "https://www.osgeo.jp/foss4g-2026-hiroshima"
+  },
+  "2249096bce998b76": {
+   "first_seen": "2026-11-27T23:30:26Z",
+   "place": "Delft (Netherlands)",
+   "start": "2026-11-26",
+   "title": "NLUUG fall event 2026",
+   "url": "https://nluug.nl/"
   },
   "227555d693ccef75": {
    "first_seen": "baseline",
@@ -15751,6 +15765,13 @@
    "title": "DevFest Bonny 2026",
    "url": "https://gdg.community.dev/events/details/google-gdg-bonny-island-presents-devfest-bonny-2026/"
   },
+  "cc6d6503d204a28f": {
+   "first_seen": "2026-11-27T23:30:26Z",
+   "place": "Niort (France)",
+   "start": "2027-03-25",
+   "title": "Agile Niort",
+   "url": "https://agileniort.fr/"
+  },
   "cc77415fb256c670": {
    "first_seen": "baseline",
    "place": "Amsterdam (Netherlands)",
@@ -16632,6 +16653,13 @@
    "start": "2026-03-19",
    "title": "Open Tech Day: OpenTofu Edition",
    "url": "https://opentechday.de/coming-up"
+  },
+  "d871d108e1221b92": {
+   "first_seen": "2026-11-27T23:30:26Z",
+   "place": "Denizli (Turkey)",
+   "start": "2026-12-12",
+   "title": "DevFest Denizli'26",
+   "url": "https://gdg.community.dev/events/details/google-gdg-denizli-presents-devfest-denizli26/"
   },
   "d87591a5847ea36f": {
    "first_seen": "baseline",
@@ -17941,6 +17969,13 @@
    "start": "2026-06-23",
    "title": "MWCP 2026",
    "url": "https://ampcommunity.online/mwcp-2026"
+  },
+  "e7c5eb802eac93ec": {
+   "first_seen": "2026-11-27T23:30:26Z",
+   "place": "Vancouver, BC (Canada)",
+   "start": "2027-05-17",
+   "title": "Embedded Open Source Summit North America",
+   "url": "https://events.linuxfoundation.org/embedded-open-source-summit-north-america/"
   },
   "e7e884757b0d4fca": {
    "first_seen": "baseline",

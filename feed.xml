@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://vauvarin.github.io/tech_conferences_feed/feed.xml</id>
   <title>Developer Conferences : nouveautés</title>
-  <updated>2026-11-26T03:37:59Z</updated>
+  <updated>2026-11-27T23:30:26Z</updated>
   <link rel="self" href="https://vauvarin.github.io/tech_conferences_feed/feed.xml"/>
   <link rel="alternate" href="https://developers.events/"/>
   <rights>Données : developers.events (CC BY-NC 4.0)</rights>
   <author><name>developers.events</name><uri>https://developers.events</uri></author>
+  <entry>
+    <id>urn:developers-events:e7c5eb802eac93ec</id>
+    <title>Embedded Open Source Summit North America — Vancouver, BC (Canada) — 17/05/2027</title>
+    <link href="https://events.linuxfoundation.org/embedded-open-source-summit-north-america/"/>
+    <published>2026-11-27T23:30:26Z</published>
+    <updated>2026-11-27T23:30:26Z</updated>
+    <summary>Embedded Open Source Summit North America — Vancouver, BC (Canada) — 17/05/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:d871d108e1221b92</id>
+    <title>DevFest Denizli'26 — Denizli (Turkey) — 12/12/2026</title>
+    <link href="https://gdg.community.dev/events/details/google-gdg-denizli-presents-devfest-denizli26/"/>
+    <published>2026-11-27T23:30:26Z</published>
+    <updated>2026-11-27T23:30:26Z</updated>
+    <summary>DevFest Denizli'26 — Denizli (Turkey) — 12/12/2026</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:cc6d6503d204a28f</id>
+    <title>Agile Niort — Niort (France) — 25/03/2027</title>
+    <link href="https://agileniort.fr/"/>
+    <published>2026-11-27T23:30:26Z</published>
+    <updated>2026-11-27T23:30:26Z</updated>
+    <summary>Agile Niort — Niort (France) — 25/03/2027</summary>
+  </entry>
+  <entry>
+    <id>urn:developers-events:186039ba67e2e135</id>
+    <title>NLUUG spring event 2026 — Delft (Netherlands) — 13/04/2027</title>
+    <link href="https://nluug.nl/evenementen/nluug/voorjaarsconferentie-2027/"/>
+    <published>2026-11-27T23:30:26Z</published>
+    <updated>2026-11-27T23:30:26Z</updated>
+    <summary>NLUUG spring event 2026 — Delft (Netherlands) — 13/04/2027</summary>
+  </entry>
   <entry>
     <id>urn:developers-events:fe5c65890712bec8</id>
     <title>Embedded Open Source Summit Europe — Glasgow (UK) — 20/09/2027</title>
@@ -214,37 +246,5 @@
     <published>2026-11-21T19:24:07Z</published>
     <updated>2026-11-21T19:24:07Z</updated>
     <summary>BSides OT UK 2027 — Manchester (UK) — 09/04/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:5681eb68fe86d762</id>
-    <title>DevFest Stockholm — Stockholm (Sweden) — 05/02/2027</title>
-    <link href="https://www.devfest-stockholm.com/"/>
-    <published>2026-11-21T19:24:07Z</published>
-    <updated>2026-11-21T19:24:07Z</updated>
-    <summary>DevFest Stockholm — Stockholm (Sweden) — 05/02/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:062931c42897e491</id>
-    <title>PyCon US 2027 — Long Beach, CA (USA) — 12/05/2027</title>
-    <link href="https://us.pycon.org/"/>
-    <published>2026-11-21T19:24:07Z</published>
-    <updated>2026-11-21T19:24:07Z</updated>
-    <summary>PyCon US 2027 — Long Beach, CA (USA) — 12/05/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:e9b4a4a842bed569</id>
-    <title>CityAI by CityJS Conference — London (UK) — 21/04/2027</title>
-    <link href="https://london.cityaiconf.org"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>CityAI by CityJS Conference — London (UK) — 21/04/2027</summary>
-  </entry>
-  <entry>
-    <id>urn:developers-events:dc4fdf955031e70f</id>
-    <title>Upstream — San Francisco, CA (USA) — 14/01/2027</title>
-    <link href="https://upstream.snowxa.com"/>
-    <published>2026-11-18T00:59:55Z</published>
-    <updated>2026-11-18T00:59:55Z</updated>
-    <summary>Upstream — San Francisco, CA (USA) — 14/01/2027</summary>
   </entry>
 </feed>
